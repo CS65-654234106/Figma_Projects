@@ -16,5 +16,5 @@
 ---
 
 ## 3. Arts and Culture Web Application
-**รายละเอียด:** เว็บแอปพลิเคชันที่ให้ความรู้เกี่ยวกับศิลปะและวัฒนธรรม
+**รายละเอียด:** ออกแบบเว็บไซต์ที่แสดงข้อมูลเกี่ยวกับศิลปวัฒนธรรมของการก่อเจดีย์ทรายในแต่ละภาค โดยผู้ใช้สามารถสร้างเจดีย์ทรายได้ เน้นการเข้าถึงข้อมูลที่รวดเร็วและใช้งานง่าย
 - [ดูโปรเจกต์ใน Figma](https://www.figma.com/proto/X7SnsbuKJpN2bqIl4cR9eb/Mini-projec?node-id=298-6598&node-type=canvas&t=9HAss3JRHWDSPsZ0-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=298%3A6598)
